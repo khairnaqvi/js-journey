@@ -7,6 +7,11 @@ JS.DATA = [
 },
 {
     id:1,
+    name:'Sabir',
+    age:'23',
+    city:'islamabad',
+},
+{
     name:'khair',
     age:'40',
     city:'pindi',
