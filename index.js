@@ -6,7 +6,7 @@ JS.DATA = [{
 },
 {
     id:1,
-    name:'Ali',
+    name:'Sabir',
     age:'23',
-    city:'lahore',
+    city:'islamabad',
 }]
